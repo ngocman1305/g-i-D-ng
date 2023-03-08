@@ -16,7 +16,7 @@ Vào file index.html và click vào icon cây bút để edit thay đổi nội 
 Sau khi thay đổi xong thì cũng lướt xuống dưới và click vào Commit change để lưu lại.
 
 Bước 4: Chuyển sang tab Setting và bấm Pages trong menu gốc bên trái lướt xuống dưới thấy khung sổ ra của `check it out here` và chọn nhánh Main rồi click Save.
-Nhớ trên General trên đầu của Setting sửa lại Repository name là tên khác nhau hong link có chữ Love you giống pun đó :))
+Nhớ trên General trên đầu của Setting sửa lại Repository name là tên khác nha kiểu gửi D hay gì đó, nhớ sửa hong là link có chữ Love you giống pun đó :))
 
 Ngồi chờ 5 phút đợi web của là nó sẽ tải lên sau đó sẽ hiện link trang web của mình click vào link đó và tận hưởng thành quả gửi cho crush thôi ahihi chúc dui nho.
 
