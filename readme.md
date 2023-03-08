@@ -12,6 +12,8 @@ Bước 2: Vào trang cá nhân github của mình và chuyển sang tab Reposit
 Bước 3: Vào file CONFIG.js và click vào icon cây bút để edit thay đổi nội dung trong phần `CONFIGDATA`
 
 Sau khi thay đổi xong thì lướt xuống dưới và click vào Commit change để lưu lại.
+Vào file index.html và click vào icon cây bút để edit thay đổi nội dung dòng số 9 và 28.
+Sau khi thay đổi xong thì cũng lướt xuống dưới và click vào Commit change để lưu lại.
 
 Bước 4: Chuyển sang tab Setting và bấm Page trong menu gốc bên trái lướt xuống dưới thấy khung sổ ra của `check it out here` và chọn nhánh Main rồi click Save.
 
