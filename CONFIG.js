@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Bé dợ ơi em có iu Pun thúi hem?",
+  titleHeader: "Quà sinh nhật dành tặng cho Dương đẹp trai nè, Dương có nhận không?",
   descriptionHeader:
-    "Iu hay hem iu hem iu hay iu nói một lời hoy ^^",
-  buttonYes: "Iu nhắm iu nhất nun bé moà hem iu thì bé lèm bé Min béoooo ",
-  buttonNo: "Hong iu âu liu liu",
-  titleModar: "Cảm ơn em vì đã đến bên Pun thúi",
+    "Nhận hay hỏng nhận hay nhận nói một lời hoy ^^",
+  buttonYes: "muốn nhận lem á",
+  buttonNo: "hỏng nhận đâu ahihi",
+  titleModar: "cảm ơn Dương đã nhận món quà này",
   descriptionModar:
-    '8/3 òi dợ ơi chúc em có ngày lễ vui vẻ nò ^^ </br> Hôm nay ngoan nho.Chồng đợi bé đi học về nè :* </br> "Lễ nì hem coá quà òi coá chồng à, lấy đỡ nho hahah </br>  Thương em nhắm iu em nhắm moaaa "',
+    'chúc Dương sinh nhật vui vẻ^^ </br>Chúc Dương sang tuổi mới </br> "có thật nhìu sức khỏe nè, càng ngày càng xinh xắn, đáng yêu, cute >.< </br>  Chúc Dương ngủ ngon "',
 };
